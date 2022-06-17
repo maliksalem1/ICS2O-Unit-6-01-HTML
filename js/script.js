@@ -24,4 +24,4 @@ if (navigator.serviceWorker) {
   const celsius = (fahrenheit - 32) * 5 / 9
 
   // output
-  document.getElementById('celsius').innerHTML = 'Celsius is: ' + celsius.toFixed(0)
+  document.getElementById('celsius').innerHTML = 'Celsius is: ' + celsius.toFixed(0)}
